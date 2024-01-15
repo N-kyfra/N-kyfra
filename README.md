@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @N-kyfra
+- 👋 Hi, I’m @francky R.B
 - 👀 I’m interested in Technology
 - 🌱 I’m currently learning web development 
 - 📫 How to reach me : franckyrabenjarison@protonmail.com
